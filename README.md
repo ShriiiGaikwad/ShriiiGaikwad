@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm passionate about building **scalable software solution
 
 ## 🔹 About Me
 - 🎓 **Master’s in Analytics (Data Science)** – University of Southern California
-- 💻 **SDE Co-op** at a **Stealth Startup** – Working on ML-based recommendation engines & scalable APIs.
+- 💻 **Co-op** at a **Stealth Startup** – Working on ML-based recommendation engines & scalable APIs.
 - 🌐 **Tech Stack:** Python, C++, Java, Go, SQL, Spring Boot, REST APIs, FastAPI, TensorFlow, AWS, Docker, Kubernetes.
 - 🔍 Passionate about **AI-powered applications, cloud infrastructure, and automation**.
 - 🏆 Hackathon enthusiast – NVIDIA & Dell AI Hackathon Winner!
