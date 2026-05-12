@@ -1,49 +1,140 @@
-# Hi there! 👋 I'm Srigandhrav Gaikwad
+# Hi there! 👋 I'm Srigandhrav Gaikwad  
 
-🚀 **Software Development Engineer | Data Science Enthusiast | AI & ML Innovator**
+🚀 **Software Development Engineer @ Amazon | Backend & Distributed Systems Engineer | AI/ML Enthusiast**
 
-Welcome to my GitHub! I'm passionate about building **scalable software solutions**, working with **AI & Machine Learning**, and optimizing **backend systems**. With experience in **full-stack development, automation, and cloud computing**, I love turning ideas into impactful projects.
+Welcome to my GitHub! I’m passionate about building scalable backend systems, distributed applications, and AI-powered products that solve real-world problems. My experience spans Java backend development, cloud-native systems, full-stack engineering, and machine learning applications.
 
-## 🔹 About Me
-- 🎓 **Master’s in Analytics (Data Science)** – University of Southern California
-- 💻 **Co-op** at a **Stealth Startup** – Working on ML-based recommendation engines & scalable APIs.
-- 🌐 **Tech Stack:** Python, C++, Java, Go, SQL, Spring Boot, REST APIs, FastAPI, TensorFlow, AWS, Docker, Kubernetes.
-- 🔍 Passionate about **AI-powered applications, cloud infrastructure, and automation**.
-- 🏆 Hackathon enthusiast – NVIDIA & Dell AI Hackathon Winner!
+Currently, I work at **Amazon**, building scalable services and allocation workflows powering cross-border shipment planning across EU and UK marketplaces.
 
 ---
 
-## 🔥 Featured Projects
-### [SecuScan](https://github.com/ShriiiGaikwad/Secuscan) 🔍
-**Security tool for scanning GitHub repositories for vulnerabilities**
-- Built a **RESTful API with Go and Gin** for automated security analysis.
-- Stores results in **SQLite**, deployed using **Docker** for easy scaling.
+# 🔹 About Me
 
-### [Sign Language Translator](https://github.com/ShriiiGaikwad/SignLanguageLearn) 🖐️🔊
-**Real-time sign language to text & speech translator**
-- Uses **Computer Vision (MediaPipe, OpenCV)** & **Deep Learning (Keras)**.
-- Supports **multilingual translation (5 languages)** for accessibility.
-
-### [Traffic Accident Detection - Nvidia & Dell Hackathon](https://github.com/ShriiiGaikwad/NHack) 🚦🚑
-**AI-based traffic accident detection & emergency alert system**
-- Developed using **YOLO & OpenCV** for **real-time object detection**.
-- Integrated an **automated alert system for hospitals & law enforcement**.
+🎓 **M.S. in Analytics (Computer Science Concentration)** — University of Southern California  
+💼 **Software Development Engineer @ Amazon** — Building Java/Spring Boot distributed systems for Amazon Seller Supply Chain  
+⚡ Former SDE at an e-commerce startup working on ML recommendation systems & scalable microservices  
+🏆 Hackathon finalist/winner with projects in AI, computer vision, and accessibility tech  
 
 ---
 
-## 💡 What I’m Working On
-- **Scaling ML-based recommendation engines for e-commerce** 🛍️
-- **Building cloud-native microservices & optimizing backend APIs** ☁️
-- **Exploring AI-powered automation for data-driven decision making** 🤖
+# 💻 Tech Stack
+
+## Backend & Distributed Systems
+- Java
+- Spring Boot
+- GraphQL
+- REST APIs
+- Go (Gin)
+- Node.js
+- Microservices
+- Distributed Systems Design
+
+## Frontend
+- React
+- TypeScript
+- JavaScript
+
+## Cloud & Infrastructure
+- AWS (Lambda, S3, ECR)
+- Docker
+- Kubernetes
+- Linux
+- CI/CD
+
+## AI / ML
+- TensorFlow
+- Scikit-Learn
+- NLP
+- Computer Vision
+- Recommendation Systems
+- GenAI / RAG Pipelines
 
 ---
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sgaikwad99/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShriiiGaikwad)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shriiigaikwad.github.io/Portfolio/)  
-📩 **Email:** ssgaikwa@usc.edu  
+# 🔥 What I’m Working On
 
-⚡ **Fun Fact:** I love participating in hackathons & collaborating on open-source projects!
+## 🚚 Amazon Seller Supply Chain
+- Building scalable **Java/Spring Boot backend systems**
+- Designing **GraphQL BFF APIs**
+- Developing distributed allocation workflows for cross-region inventory movement
+- Creating React + TypeScript shipment planning experiences
 
-Let's innovate together! 🚀
+## ☁️ Cloud-Native Engineering
+- Scalable microservices
+- Async workflows & orchestration
+- API reliability & performance optimization
+
+## 🤖 AI-Powered Applications
+- Recommendation engines
+- Computer vision systems
+- ML-driven automation workflows
+
+---
+
+# 🚀 Featured Projects
+
+## 🔍 SecuScan
+Security scanning platform for detecting vulnerabilities across repositories.
+
+### Highlights
+- Built high-performance REST APIs using **Go + Gin**
+- Implemented graph traversal algorithms for dependency analysis
+- Dockerized deployment for scalable execution
+- Benchmarked for **1K+ repositories/day** with sub-5s response times
+
+🔗 Repo: https://github.com/ShriiiGaikwad/Secuscan
+
+---
+
+## 🖐️ Sign Language to Text & Speech Translator
+Real-time accessibility application using computer vision and deep learning.
+
+### Highlights
+- Built gesture recognition pipeline using **TensorFlow, MediaPipe & OpenCV**
+- Added multilingual text-to-speech support (5+ languages)
+- Developed desktop application with real-time inference
+
+🔗 Repo: https://github.com/ShriiiGaikwad/SignLanguageLearn
+
+---
+
+## 🚦 VisionHelp – SF Hacks
+AI-powered real-time visual assistance system.
+
+### Highlights
+- Built using **YOLOv5 + Depth-Anything V2**
+- Integrated Flask APIs with GPU acceleration
+- Achieved **98% object detection accuracy** with low-latency inference
+
+🔗 Repo: https://github.com/ShriiiGaikwad/VisionHelp
+
+---
+
+# 📈 Experience Highlights
+
+## Amazon
+- Designed scalable backend services in **Java/Spring Boot**
+- Built GraphQL APIs using **AWS AppSync + Lambda**
+- Worked on distributed seller supply chain systems
+- Developed React/TypeScript shipment allocation workflows
+- Authored HLDs & LLDs for large-scale cross-border allocation systems
+
+## Startup Experience
+- Built ML recommendation engines that increased checkout conversion by **100%**
+- Migrated monoliths into scalable microservices architecture
+- Optimized AWS infrastructure costs and deployment reliability
+
+---
+
+# 📫 Let's Connect!
+
+💼 LinkedIn: https://www.linkedin.com/in/sgaikwad99/  
+🌐 Portfolio: https://shriiigaikwad.github.io/Portfolio/  
+📧 Email: srigandhravgaikwad@gmail.com  
+
+---
+
+# ⚡ Fun Fact
+I enjoy hackathons, distributed systems design, and building products that combine backend engineering with AI capabilities.
+
+🚀 Always open to collaborating on backend systems, cloud-native applications, and AI-driven projects!
